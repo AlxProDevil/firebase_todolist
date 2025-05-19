@@ -1,6 +1,10 @@
-# firebase_db
+# firebase_todolist
 
 A new Flutter project.
+
+https://pub.dev/packages/awesome_notifications
+
+https://github.com/agusbudi/mobile-programming/tree/main/10.%20Awesome%20Notifications
 
 ## Getting Started
 
