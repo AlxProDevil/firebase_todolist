@@ -3,6 +3,7 @@
 Flutter To-do List using Firebase and Awesome Notification. This is an app for storing to-do list with your own account. Some of the features are registration, login, and to-do list creation. The app also uses Awesome Notification to indicate the process happening. I used the previously made flutter note and modified it since now it is using firebase instead of local storage.
 
 Reference:
+<br>
 https://github.com/AlxProDevil/flutter-note
 
 https://pub.dev/packages/awesome_notifications
