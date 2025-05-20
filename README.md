@@ -13,15 +13,19 @@ https://github.com/agusbudi/mobile-programming/tree/main/10.%20Awesome%20Notific
 ## Features
 
 - Registration
+  
   ![image](https://github.com/user-attachments/assets/b8ce23c3-2c5d-4118-8150-124365aba358)
 
 - Login
+  
   ![image](https://github.com/user-attachments/assets/5ee7905a-0f1a-49b6-8d3e-331024f0a9a0)
 
 - To-do List CRUD
+  
   ![image](https://github.com/user-attachments/assets/000f546c-c383-4cdd-aa2f-30a9c01d7dc9)
 
 - Notification
+  
   ![image](https://github.com/user-attachments/assets/7c4e18d7-2c89-4355-8026-0d0812252516)
 
 
